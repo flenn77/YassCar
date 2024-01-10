@@ -1,0 +1,67 @@
+.error {
+    background-color: #ff0000;
+    text-align: center;
+}
+
+.success {
+    background-color: #00cc00;
+    text-align: center;
+}
+
+
+.txtcentre {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+
+.deleteBtn {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #ff3333;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+
+
+
+.lien-styliseNav:link,
+.lien-styliseNav:visited {
+    padding: 6px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    border: 2px solid transparent;
+}
+
+.lien-styliseNav:link,
+.lien-styliseNav:visited {
+    background-color: #ffcc00;
+    color: #333;
+}
+
+.lien-styliseNav:hover,
+.lien-styliseNav:active {
+    background-color: #666;
+    color: white;
+}
