@@ -5,15 +5,11 @@
     <meta charset="utf-8">
     <title>Formulaire de Retour de Véhicule</title>
     <link href="rendreVehicule.css" rel="stylesheet" />
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            document.getElementById('titre').style.opacity = 100;
-        });
-    </script>
 
 </head>
 
 <body>
+    <br>
     <div class="header">
         <h1 id="titre">Rendre Un Véhicule</h1>
         <nav class="navigation">

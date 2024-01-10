@@ -5,14 +5,11 @@
   <meta charset="utf-8">
   <title>Rendre un Véhicule</title>
   <link href="rendreVehicule.css" rel="stylesheet" />
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      document.getElementById('titre').style.opacity = 1;
-    });
-  </script>
+
 </head>
 
 <body>
+  <br>
   <div class="header">
     <h1 id="titre">Rendre Un Véhicule</h1>
     <nav class="navigation">

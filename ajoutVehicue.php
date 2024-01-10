@@ -77,7 +77,7 @@ if (isset($_GET['delete'])) {
 
 <head>
     <meta charset="utf-8">
-    <title>Prise en charge d'un véhicule</title>
+    <title>Véhicule</title>
     <link href="gestionIndviduVehicule.css" rel="stylesheet" />
 </head>
 

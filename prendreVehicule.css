@@ -19,7 +19,6 @@ body {
 }
 
 
-
 form {
     background-color: #ffffff;
     margin: 20px auto;
@@ -104,7 +103,7 @@ input[type="submit"]:hover {
 
 #titre {
     opacity: 0;
-    transition: opacity 2s; /* Durée de l'animation */
+    transition: opacity 2s; 
 }
 
 .lien-styliseNav:link,

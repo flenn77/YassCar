@@ -123,10 +123,7 @@ input[type="submit"]:hover {
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
-#titre {
-    opacity: 0;
-    transition: opacity 2s; /* Durée de l'animation */
-}
+
 
 .lien-styliseNav:link,
 .lien-styliseNav:visited {

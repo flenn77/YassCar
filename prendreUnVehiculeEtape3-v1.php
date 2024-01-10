@@ -6,11 +6,7 @@
 
 <link href="prendreVehicule.css" rel="stylesheet" />
 
-<script>
-        document.addEventListener('DOMContentLoaded', function() {
-        document.getElementById('titre').style.opacity = 100;
-        });
-    </script>
+
 </head>
 
 <body>

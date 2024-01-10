@@ -3,8 +3,9 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Gestion des Individus</title>
+    <title>Individus</title>
     <link href="gestionIndviduVehicule.css" rel="stylesheet" />
+
 
     <?php
     if (isset($_POST['ajouter'])) {
@@ -12,6 +13,7 @@
         $nom = $_POST['nom'];
         $prenom = $_POST['prenom'];
         $mail = $_POST['mail'];
+
 
         include('BaseDeDonnee.php');
 
